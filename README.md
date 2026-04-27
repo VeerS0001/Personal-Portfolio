@@ -6,9 +6,10 @@ A responsive developer portfolio built to showcase my projects, skills, and prof
 React.js
 JavaScript (ES6+)
 Tailwind CSS
+
 ✨ Features
-Responsive design (mobile-friendly)
-Interactive UI with smooth navigation
-Sections: About, Skills, Projects, Contact
-Clean, component-based architecture
-Optimized for performance
+Responsive design (mobile-friendly).
+Interactive UI with smooth navigation.
+Sections: About, Skills, Projects, Contact.
+Clean, component-based architecture.
+Optimized for performance.
