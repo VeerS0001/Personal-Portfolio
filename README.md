@@ -8,8 +8,8 @@ JavaScript (ES6+)
 Tailwind CSS
 
 ✨ Features
-Responsive design (mobile-friendly).
-Interactive UI with smooth navigation.
-Sections: About, Skills, Projects, Contact.
-Clean, component-based architecture.
-Optimized for performance.
+1. Responsive design (mobile-friendly).
+2. Interactive UI with smooth navigation.
+3. Sections: About, Skills, Projects, Contact.
+4. Clean, component-based architecture.
+5. Optimized for performance.
